@@ -4,12 +4,14 @@ I'm Rafał Pańkowski, a Data Enthusiast with a background in data analysis, bus
 
 
 🔍 What I'm working on
+
 ✅ Developing my skills in data science and machine learning
 ✅ Exploring SQL, Python libraries (NumPy, Pandas, Matplotlib)
 ✅ Building data-driven projects and automating processes
 
 
 🛠 Skills
+
 👨‍💻 Technical Skills
 Programming: Python (NumPy, Pandas, Matplotlib), SQL (learning), Excel
 Data Analysis: Machine Learning basics, Business Intelligence, KPI Reporting
@@ -22,6 +24,7 @@ Proven ability to work in multinational teams
 
 
 💼 Professional Experience
+
 📊 Amazon Fulfillment Poland | Area Manager (2018 – 2022)
 Managed over 400 employees in the Outbound PICK department
 Led the first European department for on-demand T-shirt printing
@@ -46,6 +49,7 @@ Developed CRM-based analytics for key decision-making
 
 
 📂 Featured Projects
+
 🗣 Sentiment Analysis Project
 Analyzes user opinions using Natural Language Processing (NLP) techniques.
 
@@ -54,7 +58,9 @@ A tool to track personal finances, showcasing continuous learning.
 
 
 📬 How to reach me
+
 🔗 LinkedIn: linkedin.com/in/rafalpankowski
+
 📂 GitHub: github.com/rafpank
 
 
