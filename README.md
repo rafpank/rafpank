@@ -10,6 +10,7 @@ I'm Rafał Pańkowski, a Data Enthusiast with a background in data analysis, bus
 ✅ Building data-driven projects and automating processes
 
 
+
 🛠 Skills
 
 👨‍💻 Technical Skills
@@ -21,6 +22,7 @@ Tools & Frameworks: TensorFlow, PyTorch, Git, Linux
 Strong analytical thinking and problem-solving skills
 Experience in process automation and optimization
 Proven ability to work in multinational teams
+
 
 
 💼 Professional Experience
@@ -48,6 +50,7 @@ Built custom reporting tools for business intelligence
 Developed CRM-based analytics for key decision-making
 
 
+
 📂 Featured Projects
 
 🗣 Sentiment Analysis Project
@@ -55,6 +58,7 @@ Analyzes user opinions using Natural Language Processing (NLP) techniques.
 
 💰 Household Budget Tracker
 A tool to track personal finances, showcasing continuous learning.
+
 
 
 📬 How to reach me
